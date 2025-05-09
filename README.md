@@ -28,6 +28,11 @@ The project demonstrates practical use of logical inference techniques and knowl
 - `inputs.py`: Sample inputs for testing and validation.
 - `Homework_2.pdf`: Original problem statement and description.
 
+## 👨‍💻 Author
+
+Gal Ofir  
+[LinkedIn Profile](https://www.linkedin.com/in/gal-ofir-341283210/)
+
 ## 🛠️ How to Run
 Clone the repository:
 ```bash
